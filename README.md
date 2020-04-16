@@ -1,4 +1,4 @@
-#Predicting the S&P500 using a recurrent neural network
+# Predicting the S&P500 using a recurrent neural network
 
 In this project we applied machine learning on the time-series daily level data of the S&P500 from 1963 - 2019. The project can be divided into 3 main parts:
 
